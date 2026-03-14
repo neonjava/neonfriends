@@ -1,0 +1,7 @@
+# NeonFriends Configuration
+
+# Message sent when a friend joins
+join-message: "&b[Friends] &f{player} has joined the server!"
+
+# Check interval for notifications (if needed in future)
+check-interval: 600
