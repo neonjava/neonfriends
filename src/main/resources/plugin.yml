@@ -1,0 +1,12 @@
+name: NeonFriends
+version: 1.0-SNAPSHOT
+main: me.neonjavadev.neonfriends.NeonFriends
+api-version: '1.21'
+commands:
+  friend:
+    description: Main friend command
+    aliases: [f, friends]
+permissions:
+  neonfriends.use:
+    description: Allow use of the friend command
+    default: true
