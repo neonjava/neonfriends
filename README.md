@@ -17,4 +17,4 @@ Build with `mvn package` and install the JAR on a compatible Paper server.
 
 ## License
 
-No new license is granted for contributors’ existing code. Contact the contributors before reuse or relicensing.
+Licensed under [AGPL-3.0](LICENSE).
