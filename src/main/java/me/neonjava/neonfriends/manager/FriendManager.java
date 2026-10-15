@@ -1,6 +1,6 @@
-package me.neonjavadev.neonfriends.manager;
+package me.neonjava.neonfriends.manager;
 
-import me.neonjavadev.neonfriends.NeonFriends;
+import me.neonjava.neonfriends.NeonFriends;
 
 import java.io.File;
 import java.io.IOException;

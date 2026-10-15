@@ -1,9 +1,9 @@
-package me.neonjavadev.neonfriends;
+package me.neonjava.neonfriends;
 
-import me.neonjavadev.neonfriends.commands.FriendCommand;
-import me.neonjavadev.neonfriends.listeners.FriendListener;
-import me.neonjavadev.neonfriends.listeners.GUIMenuListener;
-import me.neonjavadev.neonfriends.manager.FriendManager;
+import me.neonjava.neonfriends.commands.FriendCommand;
+import me.neonjava.neonfriends.listeners.FriendListener;
+import me.neonjava.neonfriends.listeners.GUIMenuListener;
+import me.neonjava.neonfriends.manager.FriendManager;
 import org.bukkit.plugin.java.JavaPlugin;
 
 import java.util.logging.Level;

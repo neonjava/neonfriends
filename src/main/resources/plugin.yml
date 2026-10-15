@@ -1,6 +1,6 @@
 name: NeonFriends
 version: 1.0-SNAPSHOT
-main: me.neonjavadev.neonfriends.NeonFriends
+main: me.neonjava.neonfriends.NeonFriends
 api-version: '1.21'
 commands:
   friend:

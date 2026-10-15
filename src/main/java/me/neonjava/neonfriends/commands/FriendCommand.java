@@ -1,8 +1,8 @@
-package me.neonjavadev.neonfriends.commands;
+package me.neonjava.neonfriends.commands;
 
-import me.neonjavadev.neonfriends.NeonFriends;
-import me.neonjavadev.neonfriends.gui.FriendGUI;
-import me.neonjavadev.neonfriends.manager.FriendManager;
+import me.neonjava.neonfriends.NeonFriends;
+import me.neonjava.neonfriends.gui.FriendGUI;
+import me.neonjava.neonfriends.manager.FriendManager;
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
 import org.bukkit.OfflinePlayer;
